@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://docs.hugoblox.com/reference/markdown/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://docs.hugoblox.com/reference/markdown/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>CFPS Presentation</title><link>https://www.linwz.com/post/cfps/</link><pubDate>Tue, 05 Nov 2024 09:00:00 +0000</pubDate><guid>https://www.linwz.com/post/cfps/</guid><description>&lt;p>&lt;a href="https://www.linwz.com/rmd/Presentation_2014-11-05.html" target="_blank">Slides&lt;/a>&lt;/p></description></item><item><title>CGSS Presentation</title><link>https://www.linwz.com/post/cgss/</link><pubDate>Sat, 29 Jun 2024 19:36:23 +0000</pubDate><guid>https://www.linwz.com/post/cgss/</guid><description>&lt;p>&lt;a href="https://www.linwz.com/rmd/Data_report.html" target="_blank">Slides&lt;/a>&lt;/p></description></item><item><title>Humility Shaping social judgment</title><link>https://www.linwz.com/post/dissertation/</link><pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate><guid>https://www.linwz.com/post/dissertation/</guid><description>&lt;script type="text/javascript" src="https://www.linwz.com//js/pdf-js/build/pdf.js">&lt;/script>
+&lt;p>Further event details, including &lt;a href="https://docs.hugoblox.com/reference/markdown/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>CGSS Presentation</title><link>https://www.linwz.com/post/cgss/</link><pubDate>Sat, 29 Jun 2024 19:36:23 +0000</pubDate><guid>https://www.linwz.com/post/cgss/</guid><description>&lt;p>&lt;a href="https://www.linwz.com/rmd/Data_report.html" target="_blank">Slides&lt;/a>&lt;/p></description></item><item><title>Humility Shaping social judgment</title><link>https://www.linwz.com/post/dissertation/</link><pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate><guid>https://www.linwz.com/post/dissertation/</guid><description>&lt;script type="text/javascript" src="https://www.linwz.com//js/pdf-js/build/pdf.js">&lt;/script>
 &lt;style>
 #embed-pdf-container {
 position: relative;
@@ -441,7 +441,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-372965184" class="chart">&lt;/div>
+&lt;div id="chart-384159726" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -450,7 +450,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-372965184', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-384159726', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
