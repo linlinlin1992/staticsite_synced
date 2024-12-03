@@ -19,12 +19,12 @@
 &lt;ul>
 &lt;li>线上会议使用，第一次加载时间会比较久，主持人向老师索要账号密码&lt;/li>
 &lt;/ul>
-&lt;h3 id="-limesurvey-httpssurveylwzoneadmin-">~~ Limesurvey： &lt;a href="https://survey.lwz.one/admin" target="_blank" rel="noopener">https://survey.lwz.one/admin&lt;/a> ~~&lt;/h3>
+&lt;h3 id="limesurvey-httpssurveylwzoneadmin">&lt;del>Limesurvey： &lt;a href="https://survey.lwz.one/admin" target="_blank" rel="noopener">https://survey.lwz.one/admin&lt;/a>&lt;/del>&lt;/h3>
 &lt;ul>
 &lt;li>暂时关闭，如有需要联系网管开启&lt;/li>
 &lt;li>问卷收集平台；用户名与密码进群询问.&lt;/li>
 &lt;/ul>
-&lt;h3 id="-rstudio-httpsrlwzone-">~~ Rstudio: &lt;a href="https://r.lwz.one" target="_blank" rel="noopener">https://r.lwz.one&lt;/a> ~~&lt;/h3>
+&lt;h3 id="rstudio-httpsrlwzone">&lt;del>Rstudio: &lt;a href="https://r.lwz.one" target="_blank" rel="noopener">https://r.lwz.one&lt;/a>&lt;/del>&lt;/h3>
 &lt;ul>
 &lt;li>暂时关闭，有长时间跑大量数据需求联系网管创建单独容器实例，使用后联系关闭&lt;/li>
 &lt;li>R+Rstudio的线上版本；推荐使用本地版本。&lt;/li>
@@ -34,7 +34,7 @@
 &lt;li>等你进行到文章写作投稿阶段再加，主要为共享文章引用文献列表用&lt;/li>
 &lt;li>文献库共享&lt;/li>
 &lt;/ul>
-&lt;h3 id="-短网址生成-httpslwzone-">~~ 短网址生成： &lt;a href="https://lwz.one" target="_blank" rel="noopener">https://lwz.one&lt;/a> ~~&lt;/h3>
+&lt;h3 id="短网址生成-httpslwzone">&lt;del>短网址生成： &lt;a href="https://lwz.one" target="_blank" rel="noopener">https://lwz.one&lt;/a>&lt;/del>&lt;/h3>
 &lt;ul>
 &lt;li>做实验如需生成短链接，可使用本系统；具体使用方法请联系老师。&lt;/li>
 &lt;/ul>
