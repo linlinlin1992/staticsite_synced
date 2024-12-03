@@ -251,6 +251,17 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;ul>
 &lt;li>该老师没有什么耐心&lt;/li>
 &lt;li>该老师在学术上说话很直接&lt;/li>
+&lt;/ul>
+&lt;p>#写在最后&lt;/p>
+&lt;h2 id="心理健康">心理健康&lt;/h2>
+&lt;p>做研究的过程充满了负反馈，需要自己能在研究中获得攻克问题、发现知识的乐趣，也需要导师给与更多的积极情感支持。
+“Negative reinforcement, such as receiving overly harsh criticism or being scolded by a research mentor, and being held to unreasonable expectations were two of the most detrimental aspects of research affecting student mental health”.
+“Conversely, making progress in research and receiving emotional support alleviated students’ symptoms of anxiety and depression”.
+Busch, C. A., Wiesenthal, N. J., Gin, L. E., &amp;amp; Cooper, K. M. (2024). Behind the graduate mental health crisis in science. &lt;em>Nature Biotechnology&lt;/em>, &lt;em>42&lt;/em>(11), 1749–1753. &lt;a href="https://doi.org/10.1038/s41587-024-02457-z" target="_blank" rel="noopener">https://doi.org/10.1038/s41587-024-02457-z&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>在指导过程中，如果发现自己在跟我交流后有程度高或持续一天以上的负面情绪，逃避与我交流与接触，或将我对研究的评价与建议知觉为“harsh criticism”、“being scolded”，请及时与我联系沟通消除误会。&lt;/li>
+&lt;li>在任何情况下都避免逞强、没听懂也点头等行为习惯，并及时纠正我对你的错误认知，避免自己“being held to unreasonable expectations”。&lt;/li>
+&lt;li>可适当提醒我，夸夸你的优点。&lt;/li>
 &lt;/ul></description></item><item><title>实验室资源导航</title><link>https://www.linwz.com/resources/lab/</link><pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate><guid>https://www.linwz.com/resources/lab/</guid><description>&lt;h3 id="网盘-httpswplwzone-or-httpswlwzone">网盘： &lt;a href="https://wp.lwz.one" target="_blank" rel="noopener">https://wp.lwz.one&lt;/a> or &lt;a href="https://w.lwz.one" target="_blank" rel="noopener">https://w.lwz.one&lt;/a>&lt;/h3>
 &lt;ul>
 &lt;li>直接注册使用；内含例会报告材料（请报告同学及时上传）；办事流程说明（报销、约讨论室等）；实验室使用过的问卷材料；部分数据储存和Jatos系统上传文件夹涉及用户权限须向老师申请。&lt;/li>
@@ -441,7 +452,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-973142856" class="chart">&lt;/div>
+&lt;div id="chart-631825974" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -450,7 +461,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-973142856', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-631825974', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
