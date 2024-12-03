@@ -254,10 +254,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/ul>
 &lt;h1 id="写在最后">写在最后&lt;/h1>
 &lt;h2 id="心理健康">心理健康&lt;/h2>
-&lt;p>做研究的过程充满了负反馈，需要自己能在研究中获得攻克问题、发现知识的乐趣，也需要导师给与更多的积极情感支持。
-“Negative reinforcement, such as receiving overly harsh criticism or being scolded by a research mentor, and being held to unreasonable expectations were two of the most detrimental aspects of research affecting student mental health”.
-“Conversely, making progress in research and receiving emotional support alleviated students’ symptoms of anxiety and depression”.
-Busch, C. A., Wiesenthal, N. J., Gin, L. E., &amp;amp; Cooper, K. M. (2024). Behind the graduate mental health crisis in science. &lt;em>Nature Biotechnology&lt;/em>, &lt;em>42&lt;/em>(11), 1749–1753. &lt;a href="https://doi.org/10.1038/s41587-024-02457-z" target="_blank" rel="noopener">https://doi.org/10.1038/s41587-024-02457-z&lt;/a>&lt;/p>
+&lt;p>做研究的过程充满了负反馈，需要自己能在研究中获得攻克问题、发现知识的乐趣，也需要导师给与更多的积极情感支持。&lt;/p>
+&lt;p>“Negative reinforcement, such as receiving overly harsh criticism or being scolded by a research mentor, and being held to unreasonable expectations were two of the most detrimental aspects of research affecting student mental health”.&lt;/p>
+&lt;p>“Conversely, making progress in research and receiving emotional support alleviated students’ symptoms of anxiety and depression”.&lt;/p>
+&lt;p>Busch, C. A., Wiesenthal, N. J., Gin, L. E., &amp;amp; Cooper, K. M. (2024). Behind the graduate mental health crisis in science. &lt;em>Nature Biotechnology&lt;/em>, &lt;em>42&lt;/em>(11), 1749–1753. &lt;a href="https://doi.org/10.1038/s41587-024-02457-z" target="_blank" rel="noopener">https://doi.org/10.1038/s41587-024-02457-z&lt;/a>&lt;/p>
 &lt;ul>
 &lt;li>在指导过程中，如果发现自己在跟我交流后有程度高或持续一天以上的负面情绪，逃避与我交流与接触，或将我对研究的评价与建议知觉为“harsh criticism”、“being scolded”，请及时与我联系沟通消除误会。&lt;/li>
 &lt;li>在任何情况下都避免逞强、没听懂也点头等行为习惯，并及时纠正我对你的错误认知，避免自己“being held to unreasonable expectations”。&lt;/li>
@@ -452,7 +452,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-318245796" class="chart">&lt;/div>
+&lt;div id="chart-754186392" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -461,7 +461,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-318245796', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-754186392', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
