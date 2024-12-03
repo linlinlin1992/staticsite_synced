@@ -252,7 +252,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;li>该老师没有什么耐心&lt;/li>
 &lt;li>该老师在学术上说话很直接&lt;/li>
 &lt;/ul>
-&lt;p>#写在最后&lt;/p>
+&lt;h1 id="写在最后">写在最后&lt;/h1>
 &lt;h2 id="心理健康">心理健康&lt;/h2>
 &lt;p>做研究的过程充满了负反馈，需要自己能在研究中获得攻克问题、发现知识的乐趣，也需要导师给与更多的积极情感支持。
 “Negative reinforcement, such as receiving overly harsh criticism or being scolded by a research mentor, and being held to unreasonable expectations were two of the most detrimental aspects of research affecting student mental health”.
@@ -452,7 +452,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-631825974" class="chart">&lt;/div>
+&lt;div id="chart-318245796" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -461,7 +461,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-631825974', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-318245796', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
